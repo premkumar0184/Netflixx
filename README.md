@@ -1,4 +1,4 @@
-<h1 align="center">mjland</h1>
+<h1 align="center">Netflixx</h1>
 <p align="center"><i>A beautiful and feature-rich web application for discovering and watching movies and TV shows. Explore detailed media information, get personalized recommendations, and stream seamlessly!</i></p>
 
 <p align="center">
